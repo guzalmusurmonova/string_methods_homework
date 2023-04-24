@@ -8,4 +8,4 @@ def main(s):
     """
     
     return s==s.lower() 
-print(main("codeschool"))
+print(main("GUZAL"))
